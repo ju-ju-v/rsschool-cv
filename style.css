@@ -1,10 +1,10 @@
-article {
+body {
   max-width: 1024px;
-  margin: 0 auto 48px;
+  margin: 24px auto 48px;
   font-size: 18px;
 }
 
-section {
+main {
   max-width: 700px;
 }
 
